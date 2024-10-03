@@ -1,4 +1,4 @@
-# ProyLocalizacion
+# Proyecto de Localizacion
 
 
 Integrantes:
